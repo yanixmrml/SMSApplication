@@ -1,0 +1,2 @@
+10/17/2018 5:02:33 PM ==> The process cannot access the port 'COM7' because it is being used by another process.
+10/17/2018 5:08:03 PM ==> Access to the port is denied.

@@ -1,0 +1,55 @@
+6/10/2018 5:25:03 PM ==> No data received from phone.
+6/10/2018 5:25:16 PM ==> No data received from phone.
+6/10/2018 5:25:28 PM ==> No data received from phone.
+6/10/2018 5:25:31 PM ==> No data received from phone.
+6/10/2018 5:25:59 PM ==> Response received is incomplete.
+6/10/2018 5:26:13 PM ==> Response received is incomplete.
+6/10/2018 5:26:19 PM ==> Response received is incomplete.
+6/10/2018 5:26:22 PM ==> Response received is incomplete.
+6/10/2018 5:27:08 PM ==> Response received is incomplete.
+6/10/2018 5:27:18 PM ==> Response received is incomplete.
+6/10/2018 5:27:19 PM ==> Response received is incomplete.
+6/10/2018 5:27:19 PM ==> Response received is incomplete.
+6/10/2018 5:28:37 PM ==> Access to the port 'COM10' is denied.
+6/10/2018 5:28:43 PM ==> Access to the port 'COM10' is denied.
+6/10/2018 5:28:53 PM ==> No data received from phone.
+6/10/2018 5:29:08 PM ==> No data received from phone.
+6/10/2018 5:29:26 PM ==> No data received from phone.
+6/10/2018 5:29:39 PM ==> No data received from phone.
+6/10/2018 5:29:58 PM ==> Access to the port 'COM10' is denied.
+6/10/2018 5:30:18 PM ==> The port 'COM10' does not exist.
+6/10/2018 5:30:46 PM ==> No data received from phone.
+6/10/2018 5:30:56 PM ==> Access to the port 'COM13' is denied.
+6/10/2018 5:44:32 PM ==> The port 'COM1' does not exist.
+6/10/2018 5:44:56 PM ==> Access to the port 'COM13' is denied.
+6/10/2018 5:45:07 PM ==> No data received from phone.
+6/10/2018 5:46:25 PM ==> Access to the port is denied.
+6/10/2018 5:55:01 PM ==> Access to the port 'COM19' is denied.
+6/10/2018 5:55:18 PM ==> No data received from phone.
+6/10/2018 5:55:45 PM ==> The process cannot access the port 'COM17' because it is being used by another process.
+6/10/2018 5:56:23 PM ==> The process cannot access the port 'COM17' because it is being used by another process.
+6/10/2018 5:56:24 PM ==> The process cannot access the port 'COM17' because it is being used by another process.
+6/10/2018 5:56:25 PM ==> The process cannot access the port 'COM17' because it is being used by another process.
+6/10/2018 5:56:32 PM ==> The port 'COM15' does not exist.
+6/10/2018 5:56:37 PM ==> The port 'COM16' does not exist.
+6/10/2018 6:06:16 PM ==> No data received from phone.
+6/10/2018 6:06:17 PM ==> No data received from phone.
+6/10/2018 6:06:18 PM ==> No data received from phone.
+6/10/2018 6:06:18 PM ==> No data received from phone.
+6/10/2018 6:06:19 PM ==> No data received from phone.
+6/10/2018 6:08:24 PM ==> The port 'COM1' does not exist.
+6/10/2018 6:08:45 PM ==> No data received from phone.
+6/10/2018 6:09:48 PM ==> No data received from phone.
+6/10/2018 6:09:57 PM ==> The port 'COM16' does not exist.
+6/10/2018 6:10:31 PM ==> The process cannot access the port 'COM17' because it is being used by another process.
+6/10/2018 10:24:23 PM ==> Access to the port 'COM19' is denied.
+6/10/2018 10:24:36 PM ==> Access to the port 'COM19' is denied.
+6/10/2018 10:52:51 PM ==> Access to the port 'COM17' is denied.
+6/10/2018 10:53:36 PM ==> Response received is incomplete.
+6/10/2018 10:54:24 PM ==> Response received is incomplete.
+6/10/2018 10:54:25 PM ==> Response received is incomplete.
+6/10/2018 10:54:28 PM ==> Response received is incomplete.
+6/10/2018 10:54:28 PM ==> Response received is incomplete.
+6/10/2018 10:54:29 PM ==> Response received is incomplete.
+6/10/2018 10:54:30 PM ==> Response received is incomplete.
+6/10/2018 11:10:31 PM ==> Response received is incomplete.

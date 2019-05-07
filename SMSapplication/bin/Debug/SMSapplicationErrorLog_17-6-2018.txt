@@ -1,0 +1,2 @@
+6/17/2018 12:32:09 AM ==> The port 'COM19' does not exist.
+6/17/2018 1:14:33 AM ==> The process cannot access the port 'COM15' because it is being used by another process.
